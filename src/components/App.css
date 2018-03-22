@@ -1,0 +1,10 @@
+.App {
+  margin: auto;
+  justify-content: center;
+  padding: 1em;
+  display: flex;
+}
+
+.react-router-modal__modal{
+  width: 600px;
+}

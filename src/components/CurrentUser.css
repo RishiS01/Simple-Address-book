@@ -1,0 +1,29 @@
+.currentUser {
+    border: 1px solid #ccc;
+    display: inline-flex;
+    justify-content: space-between;
+  }
+  
+.currentUserInfo {
+    padding: 1em;
+    flex: 1;
+  }
+  
+.currentUserPhoto {
+    max-height: 150px;
+  }
+.currentUserSignOut:hover{
+  background-color: #5cb85c !important;
+}
+.currentUserSignOut:focus{
+  background-color: #5cb85c !important;
+}
+.currentUserSignOut{
+  outline: none !important;
+  border: #5cb85c;
+}
+.fa-power-off{
+  font-size: 20px;
+  margin-right: 5px;
+}
+  

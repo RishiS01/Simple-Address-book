@@ -1,0 +1,10 @@
+.dropzonePreview {
+    width: 200px;
+    order-width:  2px;
+    border:1px solid red; 
+    text-align: center; 
+    margin: 0 auto;
+}
+img{
+    height: 150px;
+}
